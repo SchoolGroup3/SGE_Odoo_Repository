@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Incidencias Reto 1',
+    'name': 'Incidencias',
     'version': '1.1',
     'category': 'Human Resources/Employees',
     'summary': 'Incidencias reto 1',
